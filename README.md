@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CosinNikola
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React
