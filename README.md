@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @CosinNikola
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Back-end / Full-stack web development.
